@@ -1,5 +1,5 @@
 const apiKey = '5d04eb5efb128782c3a4fc70';
-        const apiURL = https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD;
+        const apiURL = ´https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD´;
 
         async function obtenerTiposDeCambio() {
             try {
